@@ -5,8 +5,7 @@
    Hi there! I'm Elena :)
 </h1>
 
-### A Mathematics student interested in data science, artificial intelligence and computing. 
-### Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
+### A Mathematics student interested in data science, artificial intelligence and computing. Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
 - I'm currently working on my Bachelor Final Thesis about Generative Adversarial Networks. Exploring AI from a mathematical perspective.
 
 <!--
