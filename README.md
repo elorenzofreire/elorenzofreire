@@ -1,4 +1,11 @@
-## Hi there 👋
+
+<img src="https://github.com/elorenzofreire/elorenzofreire/blob/main/banner.jfif" alt="Banner">
+
+<h1 align="center">
+   Hi there! I'm Elena :)
+</h1>
+
+### A Mathematics student interested in data science, programming and optimization. 
 
 <!--
 **elorenzofreire/elorenzofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
