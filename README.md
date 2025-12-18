@@ -7,7 +7,7 @@
 
 ###   A Mathematics student interested in data science, artificial intelligence and computing.<br>Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
 
-Currently working on my Bachelor Final Thesis about Generative Adversarial Networks. Exploring AI from a mathematical perspective.
+Currently working on my Bachelor's Final Thesis about Generative Adversarial Networks. Exploring AI from a mathematical perspective.
 
 <!--
 **elorenzofreire/elorenzofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
