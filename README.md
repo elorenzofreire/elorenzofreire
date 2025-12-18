@@ -5,7 +5,9 @@
    Hi there! I'm Elena :)
 </h1>
 
-### A Mathematics student interested in data science, programming and optimization. 
+### A Mathematics student interested in data science, artificial intelligence and computing. 
+### Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
+- I'm currently working on my Bachelor Final Thesis about Generative Adversarial Networks. Exploring AI from a mathematical perspective.
 
 <!--
 **elorenzofreire/elorenzofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
