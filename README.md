@@ -5,7 +5,7 @@
    Hi there! I'm Elena :)
 </h1>
 
-###   A Mathematics graduate interested in data science, artificial intelligence and computing.<br>Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
+###   A Mathematics graduate interested in data science, artificial intelligence, computing and optimization.<br>Analytical, detail-oriented and creative mindset. Passionate about learning new things every day.
 
 <!--
 **elorenzofreire/elorenzofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
