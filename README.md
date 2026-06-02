@@ -1,5 +1,5 @@
 
-<img src="https://github.com/elorenzofreire/elorenzofreire/blob/main/banner.jfif" alt="Banner">
+<img src="https://github.com/elorenzofreire/elorenzofreire/blob/main/Banner2.jfif" alt="Banner">
 
 <h1 align="center">
    Hi there! I'm Elena :)
